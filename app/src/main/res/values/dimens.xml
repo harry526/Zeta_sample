@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="recycler_margin">10dp</dimen>
+    <dimen name="items_padding">10dp</dimen>
+    <dimen name="title_size">24sp</dimen>
+    <dimen name="disc_margin">5dp</dimen>
+    <dimen name="image_width">100dp</dimen>
+    <dimen name="image_height">75dp</dimen>
+    <dimen name="image_margin">5dp</dimen>
+</resources>
